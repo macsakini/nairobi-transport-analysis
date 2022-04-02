@@ -1,0 +1,1 @@
+http://ogcserver.gis.wfp.org/geoserver/ows?&version=1.0.0&service=WFS&request=GetFeature&typename=geonode:ken_trs_roads_osm&outputFormat=SHAPE-ZIP
